@@ -117,8 +117,8 @@
 
 <p align="center">
   <a href="mailto:angelesvictor690@gmail.com"><img src="https://img.shields.io/badge/Gmail-angelesvictor690@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/victor-manuel"><img src="https://img.shields.io/badge/LinkedIn-victor--manuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://victor-manuel.dev"><img src="https://img.shields.io/badge/Portafolio-victor--manuel.dev-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/victor-manuel-angeles-muthe/"><img src="https://img.shields.io/badge/LinkedIn-victor--manuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://cv-lc21.onrender.com/"><img src="https://img.shields.io/badge/Portafolio-victor--manuel.dev-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
   <a href="tel:+527721262892"><img src="https://img.shields.io/badge/Teléfono-+52%20772%20126%202892-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
